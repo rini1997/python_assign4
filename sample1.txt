@@ -1,0 +1,4 @@
+Hello I am Rik.
+I am a student of 2nd year.
+it is a good day.
+i love python.
